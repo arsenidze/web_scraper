@@ -25,7 +25,7 @@ LOGIN_BUTTON_ID = 'submit'
 COOKIE_BUTTON_XPATH = '''//p[@class='cc_message']/preceding::a[1]'''
 
 COMPANY_FIELD_ID = 'company'
-COMPANY_DOMAIN = 'it'
+COMPANY_DOMAIN = 'mortgage'
 
 LOCATION_FIELD_ID = 'location'
 COMPANY_LOCATION = 'US'
